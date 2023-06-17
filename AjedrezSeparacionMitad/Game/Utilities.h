@@ -8,8 +8,8 @@ using namespace std;
 extern HANDLE handle;
 extern int width;
 extern int height;
-extern const int BOARD_SIZE;
-extern const int TEAM_SIZE;
+const int BOARD_SIZE = 8;
+const int TEAM_SIZE = 16;
 
 enum class Colors
 {
