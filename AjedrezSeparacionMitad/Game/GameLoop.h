@@ -1,5 +1,7 @@
 #pragma once
-#include "Pieces.h"
+#include "Piece.h"
+#include "King.h"
+#include "Pawn.h"
 #include "BoardUtilities.h"
 #include <string>
 
